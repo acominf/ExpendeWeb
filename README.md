@@ -1,44 +1,44 @@
-# ExpenzadillasWeb
-
-![En construcción](https://upload.wikimedia.org/wikipedia/commons/e/ef/En_construccion.jpg)
+# ExpendeWeb
+(http://nexo-cdn.nexofin.com/archivos/2015/02/maquinas-expendedoras.jpg)
 
 ## Objetivo de la aplicación
-El objetivo de la aplicación es ...
+Desarrollar una plataforma web para facilitar el uso, mantenimiento y control de expendedoras de alimentos.
 
 ## Descripción de la aplicación
-La descripción de la aplicación es ...
+Plataforma en donde se puede encontrar e interactuar de manera sencilla con expendedoras de alimentos.
 
 ## Descripción funcional
-La descripción funcional de la aplicación es ...
+Para los usuarios finales se podrá buscar, realizar compras anticipadas, pagar con tarjeta y reunir puntos para futuras recompenzas.
+Los socios de la expendedora podrán estar siempre al tanto del estado de sus expendedoras, así como tener un balance trasparente y bien organizado de los ingresos que la expendedora le genera.
+Mientras que se ofrece una iterfáz de control para que el administrador del sistema pueda constantemente monitorear cualquier incidencia en cualquiera de las expendedoras, un amplio canal de comunicación con los clientes y socios, así como agradecimiento por su preferencia se asignarán dinámicas y promociones.
 
-### Funcionalidad 1
-La descripción de la funcionalidad 1 es ...
+## Para el usuario final
 
-### Funcionalidad 2
-La descripción de la funcionalidad 2 es ...
+### Busqueda de expendedoras
+El usuario tendrá a su disposición la ubicación de cada expendedora para de manera simple poder interactuar con ellas.
 
-### Funcionalidad 3
-La descripción de la funcionalidad 3 es ...
+### Consulta de existencias
+El usuario podrá visualizar las existencias de su producto favorito para saber en que expendedora se encuentra y poder ir directamente a donde se encuentre.
 
-### Funcionalidad 4
-La descripción de la funcionalidad 4 es ...
+### Compras anticipadas
+El usuario podrá pagar de manera anticipada el producto que desee para asegurar el no quedarse sin el.
 
-### Funcionalidad 5
-La descripción de la funcionalidad 5 es ...
+### Acumulación de puntos y recompenzas
+El usuario con cada compra irá acumulando puntos para ganar diferentes recompenzas.
 
-## Autor(es)
-El autor(es) del proyecto son:
-- Nombre completo del autor 1 (@nombreUsuarioGitHub)
-- Nombre completo del autor 2 (@nombreUsuarioGitHub)
+
+## Para los socios
+
+### Chequeo de expendedoras
+Los socios podrán estar siempre al tanto del estado y las existencias en sus expendedoras para tener un control ágil.
+
+### 
+
+## Autor
+- Edgar Efraín Dorantes Padrón (@edgarefraindp)
 
 ## Materia(s)
 - Tecnologías Web
 
 ## Semestre
 - 2016-2017/II
-
-## Markdown
-El contenido de esta página está escrito en un lenguaje de marcado sencillo llamado *Markdown*. Para más detalles consulta la página de [Markdown para GitHub](https://guides.github.com/features/mastering-markdown/).
-
-## Temas de Jekyll
-El estilo y presentación de esta página utiliza el tema de Jekyll seleccionado en la configuración del repositorio. El nombre de este tema está almacenado en el archivo de configuración `_config.yml`. Para más información acerca de los temas de Jekyll soportados por GitHub [haz click en este enlace](https://pages.github.com/themes/).
